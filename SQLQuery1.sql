@@ -1,0 +1,1 @@
+select * from dbo.tpl_mantri
